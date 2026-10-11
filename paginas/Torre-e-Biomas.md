@@ -1,6 +1,6 @@
 # Torre e biomas
 
-A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar comum só abre depois que o grupo sobrevive 10 minutos nele; o último andar de cada bioma tem o guardião. Lista andar a andar em [Os 100 andares](Andares).
+A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar comum só abre depois que o grupo sobrevive 10 minutos nele; o último andar de cada bioma tem o guardião. Lista andar a andar em [Os 100 andares](Andares.md).
 
 ## Galerias Refeitas
 
@@ -12,7 +12,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Terra |
 | Resistência extra dos inimigos | Terra +10% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Larva de Junta](Inimigos#larva-de-junta), [Raspador de Junta](Inimigos#raspador-de-junta), [Sentinela de Cal](Inimigos#sentinela-de-cal), [Emboscado de Reboco](Inimigos#emboscado-de-reboco), [Molde de Ferramenta](Inimigos#molde-de-ferramenta), [Escora Hostil](Inimigos#escora-hostil), [Vigia Moldado](Inimigos#vigia-moldado) |
+| Inimigos | [Larva de Junta](Inimigos.md#larva-de-junta), [Raspador de Junta](Inimigos.md#raspador-de-junta), [Sentinela de Cal](Inimigos.md#sentinela-de-cal), [Emboscado de Reboco](Inimigos.md#emboscado-de-reboco), [Molde de Ferramenta](Inimigos.md#molde-de-ferramenta), [Escora Hostil](Inimigos.md#escora-hostil), [Vigia Moldado](Inimigos.md#vigia-moldado) |
 | Materiais | — |
 
 ## Bosque dos Ventos Presos
@@ -25,7 +25,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Raio |
 | Resistência extra dos inimigos | Raio +10% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Semeador de Juncos](Inimigos#semeador-de-juncos), [Planador de Rajada](Inimigos#planador-de-rajada), [Casca de Pressao](Inimigos#casca-de-pressao), [Predador da Calmaria](Inimigos#predador-da-calmaria) |
+| Inimigos | [Semeador de Juncos](Inimigos.md#semeador-de-juncos), [Planador de Rajada](Inimigos.md#planador-de-rajada), [Casca de Pressao](Inimigos.md#casca-de-pressao), [Predador da Calmaria](Inimigos.md#predador-da-calmaria) |
 | Materiais | Junco Mineral, Membrana de Pressao |
 
 ## Manto dos Esporos
@@ -38,7 +38,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Natureza |
 | Resistência extra dos inimigos | Natureza +20% |
 | Fraqueza extra dos inimigos | Fogo -10% |
-| Inimigos | [Esporinho](Inimigos#esporinho), [Tecelao Micelial](Inimigos#tecelao-micelial), [Sentinela de Chapeu](Inimigos#sentinela-de-chapeu), [Devorador Branco](Inimigos#devorador-branco) |
+| Inimigos | [Esporinho](Inimigos.md#esporinho), [Tecelao Micelial](Inimigos.md#tecelao-micelial), [Sentinela de Chapeu](Inimigos.md#sentinela-de-chapeu), [Devorador Branco](Inimigos.md#devorador-branco) |
 | Materiais | Lanterna de Esporo, Ambar Micelial |
 
 ## Bacias do Quarto Pulso
@@ -51,7 +51,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Gelo |
 | Resistência extra dos inimigos | Fogo +10%, Gelo +20% |
 | Fraqueza extra dos inimigos | Raio -10% |
-| Inimigos | [Filtrador](Inimigos#filtrador), [Anfibio de Canal](Inimigos#anfibio-de-canal), [Predador de Lama](Inimigos#predador-de-lama), [Colosso de Conchas](Inimigos#colosso-de-conchas) |
+| Inimigos | [Filtrador](Inimigos.md#filtrador), [Anfibio de Canal](Inimigos.md#anfibio-de-canal), [Predador de Lama](Inimigos.md#predador-de-lama), [Colosso de Conchas](Inimigos.md#colosso-de-conchas) |
 | Materiais | Lodo Mineral, Perola de Refluxo |
 
 ## Ermo do Trovao Preso
@@ -64,7 +64,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Raio |
 | Resistência extra dos inimigos | Raio +25% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Escavador Vitreo](Inimigos#escavador-vitreo), [Carapaca Carregada](Inimigos#carapaca-carregada), [Cacador de Metal](Inimigos#cacador-de-metal), [Ninho de Descarga](Inimigos#ninho-de-descarga) |
+| Inimigos | [Escavador Vitreo](Inimigos.md#escavador-vitreo), [Carapaca Carregada](Inimigos.md#carapaca-carregada), [Cacador de Metal](Inimigos.md#cacador-de-metal), [Ninho de Descarga](Inimigos.md#ninho-de-descarga) |
 | Materiais | Vidro Negro, Cristal de Carga |
 
 ## Arquivo das Rotas Mortas
@@ -77,7 +77,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Arcano |
 | Resistência extra dos inimigos | Arcano +20% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Tracador](Inimigos#tracador), [Devorador de Tinta](Inimigos#devorador-de-tinta), [Sinaleiro Falso](Inimigos#sinaleiro-falso), [Cartografo Oco](Inimigos#cartografo-oco) |
+| Inimigos | [Tracador](Inimigos.md#tracador), [Devorador de Tinta](Inimigos.md#devorador-de-tinta), [Sinaleiro Falso](Inimigos.md#sinaleiro-falso), [Cartografo Oco](Inimigos.md#cartografo-oco) |
 | Materiais | Tinta Mineral, Marco Gravado |
 
 ## Planicie dos Adormecidos
@@ -90,7 +90,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Fisico |
 | Resistência extra dos inimigos | Fisico +15% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Limpador](Inimigos#limpador), [Predador de Dobra](Inimigos#predador-de-dobra), [Migrante](Inimigos#migrante), [Colosso Menor](Inimigos#colosso-menor) |
+| Inimigos | [Limpador](Inimigos.md#limpador), [Predador de Dobra](Inimigos.md#predador-de-dobra), [Migrante](Inimigos.md#migrante), [Colosso Menor](Inimigos.md#colosso-menor) |
 | Materiais | Pele Mineral, Seiva Colossal |
 
 ## Eixos Partidos
@@ -103,7 +103,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Trevas |
 | Resistência extra dos inimigos | Trevas +15%, Arcano +10% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Aderente Menor](Inimigos#aderente-menor), [Planador de Eixo](Inimigos#planador-de-eixo), [Ilha Pesada](Inimigos#ilha-pesada), [Cortador de Ancoras](Inimigos#cortador-de-ancoras) |
+| Inimigos | [Aderente Menor](Inimigos.md#aderente-menor), [Planador de Eixo](Inimigos.md#planador-de-eixo), [Ilha Pesada](Inimigos.md#ilha-pesada), [Cortador de Ancoras](Inimigos.md#cortador-de-ancoras) |
 | Materiais | Cabo de Lastro, Fragmento de Eixo |
 
 ## Campos do Quase
@@ -116,7 +116,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Sagrado |
 | Resistência extra dos inimigos | Trevas +15%, Sagrado +15% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Eco de Presa](Inimigos#eco-de-presa), [Flor de Escolha](Inimigos#flor-de-escolha), [Cacador de Versoes](Inimigos#cacador-de-versoes), [Fixador Vivo](Inimigos#fixador-vivo) |
+| Inimigos | [Eco de Presa](Inimigos.md#eco-de-presa), [Flor de Escolha](Inimigos.md#flor-de-escolha), [Cacador de Versoes](Inimigos.md#cacador-de-versoes), [Fixador Vivo](Inimigos.md#fixador-vivo) |
 | Materiais | Petala Possivel, Semente do Quase |
 
 ## Obra Inacabada
@@ -129,7 +129,7 @@ A Torre das Cem Marcas tem 100 andares divididos em biomas. A escada de um andar
 | Tipo de dano do bioma | Arcano |
 | Resistência extra dos inimigos | Todos os tipos +10% |
 | Fraqueza extra dos inimigos | — |
-| Inimigos | [Operario Sem Autor](Inimigos#operario-sem-autor), [Molde Vivo](Inimigos#molde-vivo), [Marca Numerada](Inimigos#marca-numerada), [Eco Regional](Inimigos#eco-regional) |
+| Inimigos | [Operario Sem Autor](Inimigos.md#operario-sem-autor), [Molde Vivo](Inimigos.md#molde-vivo), [Marca Numerada](Inimigos.md#marca-numerada), [Eco Regional](Inimigos.md#eco-regional) |
 | Materiais | Material Sem Autor, Marca de Mandato |
 
 

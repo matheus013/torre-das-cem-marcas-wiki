@@ -28,7 +28,7 @@ Andar 4 · Galerias Refeitas · Vida base 12.600 · Dano 24 · Velocidade 38 · 
 | Nova em volta | raio 150, aviso 1,4s, dano 30 | 7s | todas |
 | Invoca aliados | quantidade 2 | 14s | 2 |
 
-**Gemas que entrega:** [Agulha de Lastro](Gemas-Ativas#agulha-de-lastro), [Elo Residual](Gemas-Ativas#elo-residual), [Passo Vetorial](Gemas-Ativas#passo-vetorial), [Estilhacos Lunares](Gemas-Ativas#estilhacos-lunares), [Anel de Geada](Gemas-Ativas#anel-de-geada), [Circulo de Reparo](Gemas-Ativas#circulo-de-reparo)
+**Gemas que entrega:** [Agulha de Lastro](Gemas-Ativas.md#agulha-de-lastro), [Elo Residual](Gemas-Ativas.md#elo-residual), [Passo Vetorial](Gemas-Ativas.md#passo-vetorial), [Estilhacos Lunares](Gemas-Ativas.md#estilhacos-lunares), [Anel de Geada](Gemas-Ativas.md#anel-de-geada), [Circulo de Reparo](Gemas-Ativas.md#circulo-de-reparo)
 
 ## O Refeitor
 
@@ -43,7 +43,7 @@ Andar 7 · Galerias Refeitas · Vida base 35.000 · Dano 28 · Velocidade 40 · 
 | Anel (o centro é seguro) | raio 300, aviso 1,6s, dano 36 | 9s | 2 |
 | Invoca aliados | quantidade 3 | 16s | 2 |
 
-**Gemas que entrega:** [Pulso de Cicatriz](Gemas-Ativas#pulso-de-cicatriz), [Mina de Lastro](Gemas-Ativas#mina-de-lastro), [Lanca Ferral](Gemas-Ativas#lanca-ferral), [Bola de Fogo](Gemas-Ativas#bola-de-fogo), [Muralha Refeita](Gemas-Ativas#muralha-refeita), [Ceifa Ampla](Gemas-Ativas#ceifa-ampla)
+**Gemas que entrega:** [Pulso de Cicatriz](Gemas-Ativas.md#pulso-de-cicatriz), [Mina de Lastro](Gemas-Ativas.md#mina-de-lastro), [Lanca Ferral](Gemas-Ativas.md#lanca-ferral), [Bola de Fogo](Gemas-Ativas.md#bola-de-fogo), [Muralha Refeita](Gemas-Ativas.md#muralha-refeita), [Ceifa Ampla](Gemas-Ativas.md#ceifa-ampla)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Pedra Regenerativa 100% (4–8), Argila de Enxerto 100% (1–3)
 
@@ -60,7 +60,7 @@ Andar 16 · Bosque dos Ventos Presos · Vida base 55.000 · Dano 32 · Velocidad
 | Puxão | raio 360, aviso 1,8s, dano 40 | 11s | 2 |
 | Chuva de meteoros | quantidade 5, raio 80, aviso 1,4s, dano 30 | 9s | 2 |
 
-**Gemas que entrega:** [Arco Voltaico](Gemas-Ativas#arco-voltaico), [Corte Vetorial](Gemas-Ativas#corte-vetorial), [Prisao Gravitica](Gemas-Ativas#prisao-gravitica), [Esfera de Gelo](Gemas-Ativas#esfera-de-gelo), [Semeadura Vital](Gemas-Ativas#semeadura-vital), [Laminas Orbitais](Gemas-Ativas#laminas-orbitais), [Esporos](Gemas-Ativas#esporos)
+**Gemas que entrega:** [Arco Voltaico](Gemas-Ativas.md#arco-voltaico), [Corte Vetorial](Gemas-Ativas.md#corte-vetorial), [Prisao Gravitica](Gemas-Ativas.md#prisao-gravitica), [Esfera de Gelo](Gemas-Ativas.md#esfera-de-gelo), [Semeadura Vital](Gemas-Ativas.md#semeadura-vital), [Laminas Orbitais](Gemas-Ativas.md#laminas-orbitais), [Esporos](Gemas-Ativas.md#esporos)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Junco Mineral 100% (4–8), Membrana de Pressao 100% (1–3)
 
@@ -77,7 +77,7 @@ Andar 27 · Manto dos Esporos · Vida base 64.000 · Dano 36 · Velocidade 26 ·
 | Invoca aliados | quantidade 4 | 13s | todas |
 | Anel (o centro é seguro) | raio 340, aviso 1,6s, dano 44 | 10s | 2 |
 
-**Gemas que entrega:** [Raizes Presas](Gemas-Ativas#raizes-presas), [Bolha Corrosiva](Gemas-Ativas#bolha-corrosiva), [Pantano Acido](Gemas-Ativas#pantano-acido), [Sopro Criogenico](Gemas-Ativas#sopro-criogenico), [Salto de Guarda](Gemas-Ativas#salto-de-guarda), [Saraivada de Flechas](Gemas-Ativas#saraivada-de-flechas), [Poca de Veneno](Gemas-Ativas#poca-de-veneno)
+**Gemas que entrega:** [Raizes Presas](Gemas-Ativas.md#raizes-presas), [Bolha Corrosiva](Gemas-Ativas.md#bolha-corrosiva), [Pantano Acido](Gemas-Ativas.md#pantano-acido), [Sopro Criogenico](Gemas-Ativas.md#sopro-criogenico), [Salto de Guarda](Gemas-Ativas.md#salto-de-guarda), [Saraivada de Flechas](Gemas-Ativas.md#saraivada-de-flechas), [Poca de Veneno](Gemas-Ativas.md#poca-de-veneno)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Lanterna de Esporo 100% (4–8), Ambar Micelial 100% (1–3)
 
@@ -94,7 +94,7 @@ Andar 39 · Bacias do Quarto Pulso · Vida base 82.800 · Dano 42 · Velocidade 
 | Investida | largura 110, aviso 1,2s, dano 50 | 9s | todas |
 | Rajada de projéteis | quantidade 16, dano 22 | 8s | 2 |
 
-**Gemas que entrega:** [Satelites de Geada](Gemas-Ativas#satelites-de-geada), [Disco de Retorno](Gemas-Ativas#disco-de-retorno), [Brasa Persistente](Gemas-Ativas#brasa-persistente), [Raio Prismatico](Gemas-Ativas#raio-prismatico), [Casca Reativa](Gemas-Ativas#casca-reativa)
+**Gemas que entrega:** [Satelites de Geada](Gemas-Ativas.md#satelites-de-geada), [Disco de Retorno](Gemas-Ativas.md#disco-de-retorno), [Brasa Persistente](Gemas-Ativas.md#brasa-persistente), [Raio Prismatico](Gemas-Ativas.md#raio-prismatico), [Casca Reativa](Gemas-Ativas.md#casca-reativa)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Lodo Mineral 100% (4–8), Perola de Refluxo 100% (1–3)
 
@@ -111,7 +111,7 @@ Andar 51 · Ermo do Trovao Preso · Vida base 99.200 · Dano 48 · Velocidade 30
 | Rajada de projéteis | quantidade 20, dano 24 | 8s | todas |
 | Nova em volta | raio 200, aviso 1,3s, dano 56 | 9s | 2 |
 
-**Gemas que entrega:** [Trovao Descendente](Gemas-Ativas#trovao-descendente), [Dreno em Rede](Gemas-Ativas#dreno-em-rede), [Sentinela Ferral](Gemas-Ativas#sentinela-ferral), [Chuva Ferral](Gemas-Ativas#chuva-ferral), [Semente Explosiva](Gemas-Ativas#semente-explosiva)
+**Gemas que entrega:** [Trovao Descendente](Gemas-Ativas.md#trovao-descendente), [Dreno em Rede](Gemas-Ativas.md#dreno-em-rede), [Sentinela Ferral](Gemas-Ativas.md#sentinela-ferral), [Chuva Ferral](Gemas-Ativas.md#chuva-ferral), [Semente Explosiva](Gemas-Ativas.md#semente-explosiva)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Vidro Negro 100% (4–8), Cristal de Carga 100% (1–3)
 
@@ -128,7 +128,7 @@ Andar 63 · Arquivo das Rotas Mortas · Vida base 120.000 · Dano 54 · Velocida
 | Investida | largura 120, aviso 1,1s, dano 60 | 8s | todas |
 | Anel (o centro é seguro) | raio 360, aviso 1,5s, dano 60 | 10s | 2 |
 
-**Gemas que entrega:** [Molde Vigilante](Gemas-Ativas#molde-vigilante), [Orbe de Ruptura](Gemas-Ativas#orbe-de-ruptura), [Fio Desintegrador](Gemas-Ativas#fio-desintegrador), [Enxame Luminar](Gemas-Ativas#enxame-luminar), [Abrigo de Escora](Gemas-Ativas#abrigo-de-escora)
+**Gemas que entrega:** [Molde Vigilante](Gemas-Ativas.md#molde-vigilante), [Orbe de Ruptura](Gemas-Ativas.md#orbe-de-ruptura), [Fio Desintegrador](Gemas-Ativas.md#fio-desintegrador), [Enxame Luminar](Gemas-Ativas.md#enxame-luminar), [Abrigo de Escora](Gemas-Ativas.md#abrigo-de-escora)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Tinta Mineral 100% (4–8), Marco Gravado 100% (1–3)
 
@@ -145,7 +145,7 @@ Andar 72 · Planicie dos Adormecidos · Vida base 147.000 · Dano 60 · Velocida
 | Invoca aliados | quantidade 5 | 12s | todas |
 | Chuva de meteoros | quantidade 8, raio 90, aviso 1,3s, dano 56 | 7s | 2 |
 
-**Gemas que entrega:** [Cometa de Vidro](Gemas-Ativas#cometa-de-vidro), [Cometa Sombrio](Gemas-Ativas#cometa-sombrio), [Pilar Sagrado](Gemas-Ativas#pilar-sagrado), [Ruptura Sismica](Gemas-Ativas#ruptura-sismica), [Guardiao de Lastro](Gemas-Ativas#guardiao-de-lastro)
+**Gemas que entrega:** [Cometa de Vidro](Gemas-Ativas.md#cometa-de-vidro), [Cometa Sombrio](Gemas-Ativas.md#cometa-sombrio), [Pilar Sagrado](Gemas-Ativas.md#pilar-sagrado), [Ruptura Sismica](Gemas-Ativas.md#ruptura-sismica), [Guardiao de Lastro](Gemas-Ativas.md#guardiao-de-lastro)
 
 **Saque:** Pedra Regenerativa 100% (3–5), Pele Mineral 100% (4–8), Seiva Colossal 100% (1–3)
 

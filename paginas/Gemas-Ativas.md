@@ -60,7 +60,7 @@ Zona ampla de cura leve que prolonga a estabilidade de aliados caidos.
 - **Elemento:** Natureza · **Mecânica:** Santuário · **Marcadores:** área, Vida, cura, duração
 - **Recarga:** 12s · **Fôlego:** 8 · **Potência:** 0 · **Raio:** 160 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao do Marco Cego](Chefes#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Viga do Abrigo](Armas-Unicas#viga-do-abrigo)
+- **Onde conseguir:** [Guardiao do Marco Cego](Chefes.md#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Viga do Abrigo](Armas-Unicas.md#viga-do-abrigo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -77,7 +77,7 @@ Projetil de precisao que acerta no destino da mira.
 - **Elemento:** Físico · **Mecânica:** Projétil · **Marcadores:** projétil, físico, precisão, dano
 - **Recarga:** 1,5s · **Fôlego:** 0 · **Potência:** 21 · **Raio:** 42 · **Alcance:** 520
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** gema inicial de Sena Rotavela; [Guardiao de Enxerto](Chefes#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Fio do Primeiro Lastro](Armas-Unicas#fio-do-primeiro-lastro)
+- **Onde conseguir:** gema inicial de Sena Rotavela; [Guardiao de Enxerto](Chefes.md#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Fio do Primeiro Lastro](Armas-Unicas.md#fio-do-primeiro-lastro)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -94,7 +94,7 @@ Pulso proximo que desacelera a horda.
 - **Elemento:** Gelo · **Mecânica:** Nova · **Marcadores:** área, magia, controle, dano
 - **Recarga:** 6s · **Fôlego:** 8 · **Potência:** 22 · **Raio:** 150 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao de Enxerto](Chefes#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Halo da Geada Eterna](Armas-Unicas#halo-da-geada-eterna)
+- **Onde conseguir:** [Guardiao de Enxerto](Chefes.md#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Halo da Geada Eterna](Armas-Unicas.md#halo-da-geada-eterna)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -111,7 +111,7 @@ Seis saltos de alcance curto aplicam vulnerabilidade leve.
 - **Elemento:** Raio · **Mecânica:** Corrente · **Marcadores:** corrente, magia, precisão, dano
 - **Recarga:** 5s · **Fôlego:** 8 · **Potência:** 19 · **Raio:** 80 · **Alcance:** 380
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Bobina do Arco](Armas-Unicas#bobina-do-arco)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Bobina do Arco](Armas-Unicas.md#bobina-do-arco)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -128,7 +128,7 @@ Projetil flamejante que explode em area no impacto.
 - **Elemento:** Fogo · **Mecânica:** Projétil · **Marcadores:** projétil, magia, precisão, dano
 - **Recarga:** 4,5s · **Fôlego:** 8 · **Potência:** 34 · **Raio:** 22 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [O Refeitor](Chefes#o-refeitor), andar 7; fortalecida pela arma única [Brasa do Primeiro Lume](Armas-Unicas#brasa-do-primeiro-lume)
+- **Onde conseguir:** [O Refeitor](Chefes.md#o-refeitor), andar 7; fortalecida pela arma única [Brasa do Primeiro Lume](Armas-Unicas.md#brasa-do-primeiro-lume)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -145,7 +145,7 @@ Bolha lenta de acido; o impacto deixa os inimigos vulneraveis.
 - **Elemento:** Acido · **Mecânica:** Projétil · **Marcadores:** projétil, magia, precisão, dano
 - **Recarga:** 5s · **Fôlego:** 8 · **Potência:** 20 · **Raio:** 22 · **Alcance:** 420
 - **Escala com:** Inteligencia, Vitalidade
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Fel da Bolha Acre](Armas-Unicas#fel-da-bolha-acre)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Fel da Bolha Acre](Armas-Unicas.md#fel-da-bolha-acre)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -162,7 +162,7 @@ Zona fixa de pulsos rapidos que explode ao se extinguir.
 - **Elemento:** Fogo · **Mecânica:** Campo · **Marcadores:** área, magia, controle, duração, dano
 - **Recarga:** 9s · **Fôlego:** 8 · **Potência:** 8 · **Raio:** 110 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao da Comporta](Chefes#guardiao-da-comporta), andar 39; fortalecida pela arma única [Tocha que Nao Apaga](Armas-Unicas#tocha-que-nao-apaga)
+- **Onde conseguir:** [Guardiao da Comporta](Chefes.md#guardiao-da-comporta), andar 39; fortalecida pela arma única [Tocha que Nao Apaga](Armas-Unicas.md#tocha-que-nao-apaga)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -179,7 +179,7 @@ Barreira que pune contato e explode ao expirar.
 - **Elemento:** Terra · **Mecânica:** Barreira · **Marcadores:** proteção, área, duração
 - **Recarga:** 9s · **Fôlego:** 8 · **Potência:** 0 · **Raio:** 90 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao da Comporta](Chefes#guardiao-da-comporta), andar 39; fortalecida pela arma única [Carapaca Vingativa](Armas-Unicas#carapaca-vingativa)
+- **Onde conseguir:** [Guardiao da Comporta](Chefes.md#guardiao-da-comporta), andar 39; fortalecida pela arma única [Carapaca Vingativa](Armas-Unicas.md#carapaca-vingativa)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -196,7 +196,7 @@ Corte em cone frontal; nao atinge inimigos atras do portador.
 - **Elemento:** Físico · **Mecânica:** Cone · **Marcadores:** área, físico, controle, dano
 - **Recarga:** 3s · **Fôlego:** 8 · **Potência:** 40 · **Raio:** 175 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [O Refeitor](Chefes#o-refeitor), andar 7; fortalecida pela arma única [Foice da Grande Ceifa](Armas-Unicas#foice-da-grande-ceifa)
+- **Onde conseguir:** [O Refeitor](Chefes.md#o-refeitor), andar 7; fortalecida pela arma única [Foice da Grande Ceifa](Armas-Unicas.md#foice-da-grande-ceifa)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -213,7 +213,7 @@ Tres impactos atrasados cobrem pontos diferentes ao redor da mira.
 - **Elemento:** Fogo · **Mecânica:** Meteoro · **Marcadores:** área, magia, dano
 - **Recarga:** 8s · **Fôlego:** 8 · **Potência:** 45 · **Raio:** 65 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Coroa dos Condutores](Chefes#coroa-dos-condutores), andar 51; fortalecida pela arma única [Ceu de Ferral](Armas-Unicas#ceu-de-ferral)
+- **Onde conseguir:** [Coroa dos Condutores](Chefes.md#coroa-dos-condutores), andar 51; fortalecida pela arma única [Ceu de Ferral](Armas-Unicas.md#ceu-de-ferral)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -230,7 +230,7 @@ Cultivo curto com cura forte; excesso vira barreira.
 - **Elemento:** Sagrado · **Mecânica:** Santuário · **Marcadores:** área, Vida, cura, duração
 - **Recarga:** 10s · **Fôlego:** 8 · **Potência:** 0 · **Raio:** 95 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao de Enxerto](Chefes#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Selo do Reparo](Armas-Unicas#selo-do-reparo)
+- **Onde conseguir:** [Guardiao de Enxerto](Chefes.md#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Selo do Reparo](Armas-Unicas.md#selo-do-reparo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -247,7 +247,7 @@ Cometa de sombra que atravessa dois alvos e desacelera.
 - **Elemento:** Trevas · **Mecânica:** Projétil · **Marcadores:** projétil, magia, precisão, dano
 - **Recarga:** 5s · **Fôlego:** 8 · **Potência:** 31 · **Raio:** 24 · **Alcance:** 520
 - **Escala com:** Inteligencia, Sorte
-- **Onde conseguir:** [Palpebra do Horizonte](Chefes#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Rastro da Noite Funda](Armas-Unicas#rastro-da-noite-funda)
+- **Onde conseguir:** [Palpebra do Horizonte](Chefes.md#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Rastro da Noite Funda](Armas-Unicas.md#rastro-da-noite-funda)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -264,7 +264,7 @@ Um impacto grande e lento; exige antecipar o movimento da horda.
 - **Elemento:** Gelo · **Mecânica:** Meteoro · **Marcadores:** área, magia, dano
 - **Recarga:** 11s · **Fôlego:** 8 · **Potência:** 90 · **Raio:** 125 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Palpebra do Horizonte](Chefes#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Cauda do Cometa](Armas-Unicas#cauda-do-cometa)
+- **Onde conseguir:** [Palpebra do Horizonte](Chefes.md#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Cauda do Cometa](Armas-Unicas.md#cauda-do-cometa)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -281,7 +281,7 @@ Avanco ofensivo que corta os inimigos no trajeto.
 - **Elemento:** Físico · **Mecânica:** Movimento · **Marcadores:** movimento, físico, defesa, dano
 - **Recarga:** 4s · **Fôlego:** 24 · **Potência:** 30 · **Raio:** 80 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Gume do Vetor](Armas-Unicas#gume-do-vetor)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Gume do Vetor](Armas-Unicas.md#gume-do-vetor)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -298,7 +298,7 @@ Disco corta a linha de ida e retorna pela mesma rota.
 - **Elemento:** Físico · **Mecânica:** Bumerangue · **Marcadores:** projétil, físico, precisão, dano
 - **Recarga:** 5s · **Fôlego:** 8 · **Potência:** 28 · **Raio:** 24 · **Alcance:** 350
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Guardiao da Comporta](Chefes#guardiao-da-comporta), andar 39; fortalecida pela arma única [Disco Sem Fim](Armas-Unicas#disco-sem-fim)
+- **Onde conseguir:** [Guardiao da Comporta](Chefes.md#guardiao-da-comporta), andar 39; fortalecida pela arma única [Disco Sem Fim](Armas-Unicas.md#disco-sem-fim)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -315,7 +315,7 @@ Tres saltos que devolvem Vida ao portador.
 - **Elemento:** Trevas · **Mecânica:** Corrente · **Marcadores:** corrente, magia, precisão, dano
 - **Recarga:** 7s · **Fôlego:** 8 · **Potência:** 29 · **Raio:** 80 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Coroa dos Condutores](Chefes#coroa-dos-condutores), andar 51; fortalecida pela arma única [Teia Sedenta](Armas-Unicas#teia-sedenta)
+- **Onde conseguir:** [Coroa dos Condutores](Chefes.md#coroa-dos-condutores), andar 51; fortalecida pela arma única [Teia Sedenta](Armas-Unicas.md#teia-sedenta)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -332,7 +332,7 @@ Corrente que salta entre inimigos distintos.
 - **Elemento:** Raio · **Mecânica:** Corrente · **Marcadores:** corrente, magia, precisão, dano
 - **Recarga:** 4s · **Fôlego:** 0 · **Potência:** 26 · **Raio:** 0 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sorte
-- **Onde conseguir:** gema inicial de Eloa Ferral; [Guardiao de Enxerto](Chefes#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Corrente Remanescente](Armas-Unicas#corrente-remanescente)
+- **Onde conseguir:** gema inicial de Eloa Ferral; [Guardiao de Enxerto](Chefes.md#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Corrente Remanescente](Armas-Unicas.md#corrente-remanescente)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -349,7 +349,7 @@ Tres criaturas leves perseguem o alvo mais proximo.
 - **Elemento:** Sagrado · **Mecânica:** Invocação · **Marcadores:** invocação, duração, dano
 - **Recarga:** 11s · **Fôlego:** 8 · **Potência:** 4,2 · **Raio:** 12 · **Alcance:** 85
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao do Marco Cego](Chefes#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Colmeia de Luz](Armas-Unicas#colmeia-de-luz)
+- **Onde conseguir:** [Guardiao do Marco Cego](Chefes.md#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Colmeia de Luz](Armas-Unicas.md#colmeia-de-luz)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -366,7 +366,7 @@ Esfera gelada que estilhaca no impacto e desacelera em area.
 - **Elemento:** Gelo · **Mecânica:** Projétil · **Marcadores:** projétil, magia, precisão, dano
 - **Recarga:** 4s · **Fôlego:** 8 · **Potência:** 24 · **Raio:** 22 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Nucleo do Inverno](Armas-Unicas#nucleo-do-inverno)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Nucleo do Inverno](Armas-Unicas.md#nucleo-do-inverno)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -383,7 +383,7 @@ Infecta um unico alvo com uma colonia de esporos: nao causa dano direto. Cada ti
 - **Elemento:** Natureza · **Mecânica:** Esporos · **Marcadores:** veneno, precisão, duração, dano
 - **Recarga:** 6s · **Fôlego:** 8 · **Potência:** 5 · **Raio:** 60 · **Alcance:** 420
 - **Escala com:** 
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Esporangio Ancestral](Armas-Unicas#esporangio-ancestral)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Esporangio Ancestral](Armas-Unicas.md#esporangio-ancestral)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -400,7 +400,7 @@ Leque de tres impactos curtos para espalhar dano.
 - **Elemento:** Arcano · **Mecânica:** Projétil · **Marcadores:** projétil, físico, precisão, dano
 - **Recarga:** 4s · **Fôlego:** 8 · **Potência:** 18 · **Raio:** 24 · **Alcance:** 330
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Guardiao de Enxerto](Chefes#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Leque da Lua Partida](Armas-Unicas#leque-da-lua-partida)
+- **Onde conseguir:** [Guardiao de Enxerto](Chefes.md#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Leque da Lua Partida](Armas-Unicas.md#leque-da-lua-partida)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -417,7 +417,7 @@ Feixe largo e curto que aplica vulnerabilidade.
 - **Elemento:** Trevas · **Mecânica:** Feixe · **Marcadores:** precisão, magia, dano
 - **Recarga:** 6s · **Fôlego:** 8 · **Potência:** 32 · **Raio:** 80 · **Alcance:** 320
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao do Marco Cego](Chefes#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Lamina Desfiada](Armas-Unicas#lamina-desfiada)
+- **Onde conseguir:** [Guardiao do Marco Cego](Chefes.md#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Lamina Desfiada](Armas-Unicas.md#lamina-desfiada)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -434,7 +434,7 @@ Guardiao resistente acompanha o portador e repele inimigos.
 - **Elemento:** Terra · **Mecânica:** Invocação · **Marcadores:** invocação, duração, dano
 - **Recarga:** 14s · **Fôlego:** 8 · **Potência:** 16 · **Raio:** 12 · **Alcance:** 140
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Palpebra do Horizonte](Chefes#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Juramento do Guardiao](Armas-Unicas#juramento-do-guardiao)
+- **Onde conseguir:** [Palpebra do Horizonte](Chefes.md#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Juramento do Guardiao](Armas-Unicas.md#juramento-do-guardiao)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -451,7 +451,7 @@ Tres laminas giram ao redor do portador e acertam por contato.
 - **Elemento:** Físico · **Mecânica:** Órbita · **Marcadores:** área, físico, duração, dano
 - **Recarga:** 10s · **Fôlego:** 8 · **Potência:** 22 · **Raio:** 100 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Eixo das Tres Laminas](Armas-Unicas#eixo-das-tres-laminas)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Eixo das Tres Laminas](Armas-Unicas.md#eixo-das-tres-laminas)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -468,7 +468,7 @@ Linha longa que atravessa tres alvos antes do impacto.
 - **Elemento:** Físico · **Mecânica:** Projétil · **Marcadores:** projétil, físico, precisão, dano
 - **Recarga:** 3s · **Fôlego:** 8 · **Potência:** 25 · **Raio:** 26 · **Alcance:** 600
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [O Refeitor](Chefes#o-refeitor), andar 7; fortalecida pela arma única [Presa de Ferral](Armas-Unicas#presa-de-ferral)
+- **Onde conseguir:** [O Refeitor](Chefes.md#o-refeitor), andar 7; fortalecida pela arma única [Presa de Ferral](Armas-Unicas.md#presa-de-ferral)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -485,7 +485,7 @@ Arma apos um segundo e detona quando um inimigo se aproxima, ou ao expirar.
 - **Elemento:** Fogo · **Mecânica:** Mina · **Marcadores:** área, magia, duração, dano
 - **Recarga:** 5s · **Fôlego:** 8 · **Potência:** 48 · **Raio:** 105 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** gema inicial de Rui Pedralva; [O Refeitor](Chefes#o-refeitor), andar 7; fortalecida pela arma única [Detonador de Lastro](Armas-Unicas#detonador-de-lastro)
+- **Onde conseguir:** gema inicial de Rui Pedralva; [O Refeitor](Chefes.md#o-refeitor), andar 7; fortalecida pela arma única [Detonador de Lastro](Armas-Unicas.md#detonador-de-lastro)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -502,7 +502,7 @@ Invocacao fixa ataca inimigos proximos durante dez segundos.
 - **Elemento:** Terra · **Mecânica:** Invocação · **Marcadores:** invocação, projétil, duração, dano
 - **Recarga:** 9s · **Fôlego:** 0 · **Potência:** 11 · **Raio:** 0 · **Alcance:** 300
 - **Escala com:** Sabedoria, Inteligencia
-- **Onde conseguir:** [Guardiao do Marco Cego](Chefes#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Matriz do Vigia](Armas-Unicas#matriz-do-vigia)
+- **Onde conseguir:** [Guardiao do Marco Cego](Chefes.md#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Matriz do Vigia](Armas-Unicas.md#matriz-do-vigia)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -519,7 +519,7 @@ Barreira pessoal; evolucoes adicionam contato, partilha ou explosao.
 - **Elemento:** Terra · **Mecânica:** Barreira · **Marcadores:** proteção, área, estrutura, duração
 - **Recarga:** 7s · **Fôlego:** 10 · **Potência:** 0 · **Raio:** 90 · **Alcance:** 0
 - **Escala com:** Vitalidade, Forca
-- **Onde conseguir:** [O Refeitor](Chefes#o-refeitor), andar 7; fortalecida pela arma única [Pedra que se Refaz](Armas-Unicas#pedra-que-se-refaz)
+- **Onde conseguir:** [O Refeitor](Chefes.md#o-refeitor), andar 7; fortalecida pela arma única [Pedra que se Refaz](Armas-Unicas.md#pedra-que-se-refaz)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -536,7 +536,7 @@ Impacto largo e lento que rompe grupos compactos.
 - **Elemento:** Arcano · **Mecânica:** Projétil · **Marcadores:** projétil, físico, precisão, dano
 - **Recarga:** 6s · **Fôlego:** 8 · **Potência:** 48 · **Raio:** 20 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Guardiao do Marco Cego](Chefes#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Coracao da Ruptura](Armas-Unicas#coracao-da-ruptura)
+- **Onde conseguir:** [Guardiao do Marco Cego](Chefes.md#guardiao-do-marco-cego), andar 63; fortalecida pela arma única [Coracao da Ruptura](Armas-Unicas.md#coracao-da-ruptura)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -553,7 +553,7 @@ Zona que combina lentidao e vulnerabilidade.
 - **Elemento:** Acido · **Mecânica:** Campo · **Marcadores:** área, magia, controle, duração, dano
 - **Recarga:** 10s · **Fôlego:** 8 · **Potência:** 6 · **Raio:** 145 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Raiz do Brejo Acre](Armas-Unicas#raiz-do-brejo-acre)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Raiz do Brejo Acre](Armas-Unicas.md#raiz-do-brejo-acre)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -570,7 +570,7 @@ Esquiva com invulnerabilidade breve e custo de Folego.
 - **Elemento:** Físico · **Mecânica:** Movimento · **Marcadores:** movimento, físico, defesa
 - **Recarga:** 3s · **Fôlego:** 30 · **Potência:** 0 · **Raio:** 0 · **Alcance:** 0
 - **Escala com:** Agilidade, Sabedoria
-- **Onde conseguir:** [Guardiao de Enxerto](Chefes#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Vetor Sem Sombra](Armas-Unicas#vetor-sem-sombra)
+- **Onde conseguir:** [Guardiao de Enxerto](Chefes.md#guardiao-de-enxerto), andar 4; fortalecida pela arma única [Vetor Sem Sombra](Armas-Unicas.md#vetor-sem-sombra)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -587,7 +587,7 @@ Coluna de luz cai na mira apos breve aviso.
 - **Elemento:** Sagrado · **Mecânica:** Meteoro · **Marcadores:** área, magia, dano
 - **Recarga:** 8s · **Fôlego:** 8 · **Potência:** 70 · **Raio:** 90 · **Alcance:** 420
 - **Escala com:** Sabedoria, Inteligencia
-- **Onde conseguir:** [Palpebra do Horizonte](Chefes#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Coluna da Alvorada](Armas-Unicas#coluna-da-alvorada)
+- **Onde conseguir:** [Palpebra do Horizonte](Chefes.md#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Coluna da Alvorada](Armas-Unicas.md#coluna-da-alvorada)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -604,7 +604,7 @@ Cria uma poca de toxina que dura 20 s. Inimigos dentro ficam envenenados (dano c
 - **Elemento:** Acido · **Mecânica:** Poça de veneno · **Marcadores:** área, magia, veneno, duração, dano
 - **Recarga:** 12s · **Fôlego:** 12 · **Potência:** 14 · **Raio:** 95 · **Alcance:** 420
 - **Escala com:** Inteligencia
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Calice do Lodo](Armas-Unicas#calice-do-lodo)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Calice do Lodo](Armas-Unicas.md#calice-do-lodo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -621,7 +621,7 @@ Campo persistente de pulsos; evolucoes adicionam atracao e colapso.
 - **Elemento:** Trevas · **Mecânica:** Campo · **Marcadores:** área, magia, controle, duração, dano
 - **Recarga:** 8s · **Fôlego:** 0 · **Potência:** 12 · **Raio:** 160 · **Alcance:** 0
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Ancora do Peso Cativo](Armas-Unicas#ancora-do-peso-cativo)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Ancora do Peso Cativo](Armas-Unicas.md#ancora-do-peso-cativo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -638,7 +638,7 @@ Pulso circular de dano ao redor do portador.
 - **Elemento:** Trevas · **Mecânica:** Nova · **Marcadores:** área, magia, controle, dano
 - **Recarga:** 5s · **Fôlego:** 0 · **Potência:** 30 · **Raio:** 135 · **Alcance:** 0
 - **Escala com:** Inteligencia, Vitalidade
-- **Onde conseguir:** gema inicial de Cira Salvedra; [O Refeitor](Chefes#o-refeitor), andar 7; fortalecida pela arma única [Batimento da Cicatriz](Armas-Unicas#batimento-da-cicatriz)
+- **Onde conseguir:** gema inicial de Cira Salvedra; [O Refeitor](Chefes.md#o-refeitor), andar 7; fortalecida pela arma única [Batimento da Cicatriz](Armas-Unicas.md#batimento-da-cicatriz)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -655,7 +655,7 @@ Feixe estreito que atinge todos os inimigos alinhados.
 - **Elemento:** Sagrado · **Mecânica:** Feixe · **Marcadores:** precisão, magia, dano
 - **Recarga:** 4s · **Fôlego:** 8 · **Potência:** 38 · **Raio:** 80 · **Alcance:** 560
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Guardiao da Comporta](Chefes#guardiao-da-comporta), andar 39; fortalecida pela arma única [Prisma Absoluto](Armas-Unicas#prisma-absoluto)
+- **Onde conseguir:** [Guardiao da Comporta](Chefes.md#guardiao-da-comporta), andar 39; fortalecida pela arma única [Prisma Absoluto](Armas-Unicas.md#prisma-absoluto)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -672,7 +672,7 @@ Raizes brotam na mira e prendem a horda com lentidao forte.
 - **Elemento:** Natureza · **Mecânica:** Campo · **Marcadores:** área, magia, controle, duração, dano
 - **Recarga:** 9s · **Fôlego:** 8 · **Potência:** 8,4 · **Raio:** 130 · **Alcance:** 420
 - **Escala com:** Vitalidade, Sabedoria
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Enxerto das Raizes](Armas-Unicas#enxerto-das-raizes)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Enxerto das Raizes](Armas-Unicas.md#enxerto-das-raizes)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -689,7 +689,7 @@ Explosao curta e forte que afasta ameacas.
 - **Elemento:** Terra · **Mecânica:** Nova · **Marcadores:** área, magia, controle, dano
 - **Recarga:** 7s · **Fôlego:** 8 · **Potência:** 55 · **Raio:** 100 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Palpebra do Horizonte](Chefes#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Punho do Abalo](Armas-Unicas#punho-do-abalo)
+- **Onde conseguir:** [Palpebra do Horizonte](Chefes.md#palpebra-do-horizonte), andar 72; fortalecida pela arma única [Punho do Abalo](Armas-Unicas.md#punho-do-abalo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -706,7 +706,7 @@ Retirada longa com barreira na chegada, sem dano direto.
 - **Elemento:** Físico · **Mecânica:** Movimento · **Marcadores:** movimento, físico, defesa
 - **Recarga:** 6s · **Fôlego:** 30 · **Potência:** 0 · **Raio:** 80 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Asa da Retirada](Armas-Unicas#asa-da-retirada)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Asa da Retirada](Armas-Unicas.md#asa-da-retirada)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -723,7 +723,7 @@ Enquanto ativa, voce gira disparando flechas em sequencia muito rapida, mesmo an
 - **Elemento:** Físico · **Mecânica:** Saraivada · **Marcadores:** projétil, magia, dano
 - **Recarga:** 1,5s · **Fôlego:** 6 · **Potência:** 4 · **Raio:** 16 · **Alcance:** 300
 - **Escala com:** Agilidade, Inteligencia
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Arco das Tres Tempestades](Armas-Unicas#arco-das-tres-tempestades)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Arco das Tres Tempestades](Armas-Unicas.md#arco-das-tres-tempestades)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -740,7 +740,7 @@ Duas orbitas externas lentas controlam a aproximacao.
 - **Elemento:** Gelo · **Mecânica:** Órbita · **Marcadores:** área, físico, duração, dano
 - **Recarga:** 12s · **Fôlego:** 8 · **Potência:** 16 · **Raio:** 145 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Guardiao da Comporta](Chefes#guardiao-da-comporta), andar 39; fortalecida pela arma única [Orbita Invernal](Armas-Unicas#orbita-invernal)
+- **Onde conseguir:** [Guardiao da Comporta](Chefes.md#guardiao-da-comporta), andar 39; fortalecida pela arma única [Orbita Invernal](Armas-Unicas.md#orbita-invernal)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -757,7 +757,7 @@ Cultivo que cura aliados dentro da zona e causa dano aos inimigos.
 - **Elemento:** Natureza · **Mecânica:** Santuário · **Marcadores:** área, Vida, cura, duração, dano
 - **Recarga:** 6s · **Fôlego:** 0 · **Potência:** 10 · **Raio:** 120 · **Alcance:** 0
 - **Escala com:** Vitalidade, Sabedoria
-- **Onde conseguir:** [Pastor das Correntes](Chefes#pastor-das-correntes), andar 16; fortalecida pela arma única [Cajado da Primeira Colheita](Armas-Unicas#cajado-da-primeira-colheita)
+- **Onde conseguir:** [Pastor das Correntes](Chefes.md#pastor-das-correntes), andar 16; fortalecida pela arma única [Cajado da Primeira Colheita](Armas-Unicas.md#cajado-da-primeira-colheita)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -774,7 +774,7 @@ Armadilha rapida de explosao ampla e repulsao.
 - **Elemento:** Fogo · **Mecânica:** Mina · **Marcadores:** área, magia, duração, dano
 - **Recarga:** 7s · **Fôlego:** 8 · **Potência:** 35 · **Raio:** 145 · **Alcance:** 420
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Coroa dos Condutores](Chefes#coroa-dos-condutores), andar 51; fortalecida pela arma única [Semente do Estrondo](Armas-Unicas#semente-do-estrondo)
+- **Onde conseguir:** [Coroa dos Condutores](Chefes.md#coroa-dos-condutores), andar 51; fortalecida pela arma única [Semente do Estrondo](Armas-Unicas.md#semente-do-estrondo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -791,7 +791,7 @@ Sentinela fixa de longo alcance prioriza o inimigo com menos Vida.
 - **Elemento:** Arcano · **Mecânica:** Invocação · **Marcadores:** invocação, duração, dano
 - **Recarga:** 12s · **Fôlego:** 8 · **Potência:** 20 · **Raio:** 12 · **Alcance:** 460
 - **Escala com:** Inteligencia, Sabedoria
-- **Onde conseguir:** [Coroa dos Condutores](Chefes#coroa-dos-condutores), andar 51; fortalecida pela arma única [Olho da Sentinela](Armas-Unicas#olho-da-sentinela)
+- **Onde conseguir:** [Coroa dos Condutores](Chefes.md#coroa-dos-condutores), andar 51; fortalecida pela arma única [Olho da Sentinela](Armas-Unicas.md#olho-da-sentinela)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -808,7 +808,7 @@ Cone estreito e longo de lentidao intensa.
 - **Elemento:** Gelo · **Mecânica:** Cone · **Marcadores:** área, físico, controle, dano
 - **Recarga:** 6s · **Fôlego:** 8 · **Potência:** 25 · **Raio:** 240 · **Alcance:** 420
 - **Escala com:** Forca, Agilidade
-- **Onde conseguir:** [Guardia do No-Mae](Chefes#guardia-do-no-mae), andar 27; fortalecida pela arma única [Pulmao de Gelo](Armas-Unicas#pulmao-de-gelo)
+- **Onde conseguir:** [Guardia do No-Mae](Chefes.md#guardia-do-no-mae), andar 27; fortalecida pela arma única [Pulmao de Gelo](Armas-Unicas.md#pulmao-de-gelo)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |
@@ -825,7 +825,7 @@ Dois raios caem rapido ao redor da mira.
 - **Elemento:** Raio · **Mecânica:** Meteoro · **Marcadores:** área, magia, dano
 - **Recarga:** 6s · **Fôlego:** 8 · **Potência:** 36 · **Raio:** 70 · **Alcance:** 420
 - **Escala com:** Inteligencia, Agilidade
-- **Onde conseguir:** [Coroa dos Condutores](Chefes#coroa-dos-condutores), andar 51; fortalecida pela arma única [Voz do Trovao](Armas-Unicas#voz-do-trovao)
+- **Onde conseguir:** [Coroa dos Condutores](Chefes.md#coroa-dos-condutores), andar 51; fortalecida pela arma única [Voz do Trovao](Armas-Unicas.md#voz-do-trovao)
 
 | Maestria | Evoluções (escolha uma) |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Há dano físico e nove elementos: Fisico, Fogo, Gelo, Raio, Acido, Natureza, Trevas, Sagrado, Terra, Arcano.
 
-- Cada inimigo soma a resistência da raça, a do bioma e a da [dificuldade](Dificuldades), de -50% (fraqueza) a 75%.
+- Cada inimigo soma a resistência da raça, a do bioma e a da [dificuldade](Dificuldades.md), de -50% (fraqueza) a 75%.
 - **Penetração** reduz só resistência positiva, nunca abaixo de zero; fraquezas continuam valendo.
 - **Quebra elemental** reduz a resistência por alguns segundos.
 - **Adaptação** (dificuldades 4 e 5, elites e chefes): o tipo que mais feriu o inimigo ganha +30% de resistência.

@@ -6,22 +6,22 @@ Aresta é um RPG de ação em pixel art (Godot 4) para até quatro jogadores. Vo
 
 ## Páginas
 
-- [Personagens](Personagens)
-- [Armas e ataque básico](Armas)
-- [Gemas ativas](Gemas-Ativas)
-- [Gemas de suporte](Gemas-de-Suporte)
-- [Invocações](Invocacoes)
-- [Inimigos](Inimigos)
-- [Chefes](Chefes)
-- [Raças, patentes e afixos de monstro](Racas-e-Patentes)
-- [Torre e biomas](Torre-e-Biomas)
-- [Os 100 andares](Andares)
-- [Resistências](Resistencias)
-- [Dificuldades](Dificuldades)
-- [Armas únicas](Armas-Unicas)
-- [Lendários e relíquias](Lendarios-e-Reliquias)
-- [Equipamentos, consumíveis e materiais](Equipamentos-e-Materiais)
-- [Afixos de item](Afixos)
+- [Personagens](Personagens.md)
+- [Armas e ataque básico](Armas.md)
+- [Gemas ativas](Gemas-Ativas.md)
+- [Gemas de suporte](Gemas-de-Suporte.md)
+- [Invocações](Invocacoes.md)
+- [Inimigos](Inimigos.md)
+- [Chefes](Chefes.md)
+- [Raças, patentes e afixos de monstro](Racas-e-Patentes.md)
+- [Torre e biomas](Torre-e-Biomas.md)
+- [Os 100 andares](Andares.md)
+- [Resistências](Resistencias.md)
+- [Dificuldades](Dificuldades.md)
+- [Armas únicas](Armas-Unicas.md)
+- [Lendários e relíquias](Lendarios-e-Reliquias.md)
+- [Equipamentos, consumíveis e materiais](Equipamentos-e-Materiais.md)
+- [Afixos de item](Afixos.md)
 
 ## Números em resumo
 

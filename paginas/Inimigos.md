@@ -1,8 +1,8 @@
 # Inimigos
 
-Inimigos comuns e de elite de cada bioma. **Vida base** já inclui o multiplicador global (x10); no jogo ela ainda é multiplicada pela raça, pela patente, pelo andar e pela [dificuldade](Dificuldades). A velocidade final é 150% da base.
+Inimigos comuns e de elite de cada bioma. **Vida base** já inclui o multiplicador global (x10); no jogo ela ainda é multiplicada pela raça, pela patente, pelo andar e pela [dificuldade](Dificuldades.md). A velocidade final é 150% da base.
 
-Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resistencias)). O bestiário do jogo revela estas informações aos poucos: comuns precisam de 1, 5, 15, 30, 60 abates para cada nível de conhecimento; elites, 1, 3, 8, 15, 30.
+Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resistencias.md)). O bestiário do jogo revela estas informações aos poucos: comuns precisam de 1, 5, 15, 30, 60 abates para cada nível de conhecimento; elites, 1, 3, 8, 15, 30.
 
 ## Galerias Refeitas (andares 1–7)
 
@@ -11,7 +11,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Juntideo](Racas-e-Patentes#juntideo) |
+| Raça | [Juntideo](Racas-e-Patentes.md#juntideo) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 350 |
@@ -31,7 +31,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Juntideo](Racas-e-Patentes#juntideo) |
+| Raça | [Juntideo](Racas-e-Patentes.md#juntideo) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 600 |
@@ -51,7 +51,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Calcario](Racas-e-Patentes#calcario) |
+| Raça | [Calcario](Racas-e-Patentes.md#calcario) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 520 |
@@ -71,7 +71,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Rebocado](Racas-e-Patentes#rebocado) |
+| Raça | [Rebocado](Racas-e-Patentes.md#rebocado) |
 | Patente | Evoluido |
 | Tipo | Emboscada |
 | Vida base | 780 |
@@ -91,7 +91,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Moldado](Racas-e-Patentes#moldado) |
+| Raça | [Moldado](Racas-e-Patentes.md#moldado) |
 | Patente | Evoluido |
 | Tipo | Imitador |
 | Vida base | 920 |
@@ -111,7 +111,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Calcario](Racas-e-Patentes#calcario) |
+| Raça | [Calcario](Racas-e-Patentes.md#calcario) |
 | Patente | Alfa |
 | Tipo | Suporte |
 | Vida base | 1.100 |
@@ -131,7 +131,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Moldado](Racas-e-Patentes#moldado) |
+| Raça | [Moldado](Racas-e-Patentes.md#moldado) |
 | Patente | Evoluido |
 | Tipo | À distância |
 | Vida base | 700 |
@@ -153,7 +153,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Ventania](Racas-e-Patentes#ventania) |
+| Raça | [Ventania](Racas-e-Patentes.md#ventania) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 340 |
@@ -173,7 +173,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Ventania](Racas-e-Patentes#ventania) |
+| Raça | [Ventania](Racas-e-Patentes.md#ventania) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 480 |
@@ -193,7 +193,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Ventania](Racas-e-Patentes#ventania) |
+| Raça | [Ventania](Racas-e-Patentes.md#ventania) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 640 |
@@ -213,7 +213,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Ventania](Racas-e-Patentes#ventania) |
+| Raça | [Ventania](Racas-e-Patentes.md#ventania) |
 | Patente | Evoluido |
 | Tipo | Emboscada |
 | Vida base | 880 |
@@ -235,7 +235,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Micelar](Racas-e-Patentes#micelar) |
+| Raça | [Micelar](Racas-e-Patentes.md#micelar) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 360 |
@@ -255,7 +255,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Micelar](Racas-e-Patentes#micelar) |
+| Raça | [Micelar](Racas-e-Patentes.md#micelar) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 500 |
@@ -275,7 +275,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Micelar](Racas-e-Patentes#micelar) |
+| Raça | [Micelar](Racas-e-Patentes.md#micelar) |
 | Patente | Maduro |
 | Tipo | Suporte |
 | Vida base | 700 |
@@ -295,7 +295,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Micelar](Racas-e-Patentes#micelar) |
+| Raça | [Micelar](Racas-e-Patentes.md#micelar) |
 | Patente | Evoluido |
 | Tipo | Corpo a corpo |
 | Vida base | 960 |
@@ -317,7 +317,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Lodoso](Racas-e-Patentes#lodoso) |
+| Raça | [Lodoso](Racas-e-Patentes.md#lodoso) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 380 |
@@ -337,7 +337,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Lodoso](Racas-e-Patentes#lodoso) |
+| Raça | [Lodoso](Racas-e-Patentes.md#lodoso) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 520 |
@@ -357,7 +357,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Lodoso](Racas-e-Patentes#lodoso) |
+| Raça | [Lodoso](Racas-e-Patentes.md#lodoso) |
 | Patente | Maduro |
 | Tipo | Emboscada |
 | Vida base | 660 |
@@ -377,7 +377,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Lodoso](Racas-e-Patentes#lodoso) |
+| Raça | [Lodoso](Racas-e-Patentes.md#lodoso) |
 | Patente | Evoluido |
 | Tipo | Suporte |
 | Vida base | 1.100 |
@@ -399,7 +399,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Carregado](Racas-e-Patentes#carregado) |
+| Raça | [Carregado](Racas-e-Patentes.md#carregado) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 400 |
@@ -419,7 +419,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Carregado](Racas-e-Patentes#carregado) |
+| Raça | [Carregado](Racas-e-Patentes.md#carregado) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 700 |
@@ -439,7 +439,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Carregado](Racas-e-Patentes#carregado) |
+| Raça | [Carregado](Racas-e-Patentes.md#carregado) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 540 |
@@ -459,7 +459,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Carregado](Racas-e-Patentes#carregado) |
+| Raça | [Carregado](Racas-e-Patentes.md#carregado) |
 | Patente | Evoluido |
 | Tipo | Suporte |
 | Vida base | 1.150 |
@@ -481,7 +481,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Cartografo](Racas-e-Patentes#cartografo) |
+| Raça | [Cartografo](Racas-e-Patentes.md#cartografo) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 400 |
@@ -501,7 +501,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Cartografo](Racas-e-Patentes#cartografo) |
+| Raça | [Cartografo](Racas-e-Patentes.md#cartografo) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 720 |
@@ -521,7 +521,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Cartografo](Racas-e-Patentes#cartografo) |
+| Raça | [Cartografo](Racas-e-Patentes.md#cartografo) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 560 |
@@ -541,7 +541,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Cartografo](Racas-e-Patentes#cartografo) |
+| Raça | [Cartografo](Racas-e-Patentes.md#cartografo) |
 | Patente | Evoluido |
 | Tipo | À distância |
 | Vida base | 1.040 |
@@ -563,7 +563,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Parasitario](Racas-e-Patentes#parasitario) |
+| Raça | [Parasitario](Racas-e-Patentes.md#parasitario) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 440 |
@@ -583,7 +583,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Parasitario](Racas-e-Patentes#parasitario) |
+| Raça | [Parasitario](Racas-e-Patentes.md#parasitario) |
 | Patente | Maduro |
 | Tipo | Emboscada |
 | Vida base | 780 |
@@ -603,7 +603,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Parasitario](Racas-e-Patentes#parasitario) |
+| Raça | [Parasitario](Racas-e-Patentes.md#parasitario) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 840 |
@@ -623,7 +623,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Parasitario](Racas-e-Patentes#parasitario) |
+| Raça | [Parasitario](Racas-e-Patentes.md#parasitario) |
 | Patente | Evoluido |
 | Tipo | Corpo a corpo |
 | Vida base | 1.400 |
@@ -645,7 +645,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Aderente](Racas-e-Patentes#aderente) |
+| Raça | [Aderente](Racas-e-Patentes.md#aderente) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 460 |
@@ -665,7 +665,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Aderente](Racas-e-Patentes#aderente) |
+| Raça | [Aderente](Racas-e-Patentes.md#aderente) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 600 |
@@ -685,7 +685,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Aderente](Racas-e-Patentes#aderente) |
+| Raça | [Aderente](Racas-e-Patentes.md#aderente) |
 | Patente | Maduro |
 | Tipo | Suporte |
 | Vida base | 960 |
@@ -705,7 +705,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Aderente](Racas-e-Patentes#aderente) |
+| Raça | [Aderente](Racas-e-Patentes.md#aderente) |
 | Patente | Evoluido |
 | Tipo | Corpo a corpo |
 | Vida base | 1.300 |
@@ -727,7 +727,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Possivel](Racas-e-Patentes#possivel) |
+| Raça | [Possivel](Racas-e-Patentes.md#possivel) |
 | Patente | Nascente |
 | Tipo | Corpo a corpo |
 | Vida base | 480 |
@@ -747,7 +747,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Possivel](Racas-e-Patentes#possivel) |
+| Raça | [Possivel](Racas-e-Patentes.md#possivel) |
 | Patente | Maduro |
 | Tipo | À distância |
 | Vida base | 620 |
@@ -767,7 +767,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Possivel](Racas-e-Patentes#possivel) |
+| Raça | [Possivel](Racas-e-Patentes.md#possivel) |
 | Patente | Maduro |
 | Tipo | Emboscada |
 | Vida base | 840 |
@@ -787,7 +787,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Possivel](Racas-e-Patentes#possivel) |
+| Raça | [Possivel](Racas-e-Patentes.md#possivel) |
 | Patente | Evoluido |
 | Tipo | Suporte |
 | Vida base | 1.500 |
@@ -809,7 +809,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Sem Autor](Racas-e-Patentes#sem-autor) |
+| Raça | [Sem Autor](Racas-e-Patentes.md#sem-autor) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 600 |
@@ -829,7 +829,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Sem Autor](Racas-e-Patentes#sem-autor) |
+| Raça | [Sem Autor](Racas-e-Patentes.md#sem-autor) |
 | Patente | Maduro |
 | Tipo | Corpo a corpo |
 | Vida base | 960 |
@@ -849,7 +849,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Comum |
-| Raça | [Sem Autor](Racas-e-Patentes#sem-autor) |
+| Raça | [Sem Autor](Racas-e-Patentes.md#sem-autor) |
 | Patente | Evoluido |
 | Tipo | À distância |
 | Vida base | 740 |
@@ -869,7 +869,7 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 | | |
 | --- | --- |
 | Classe | Elite |
-| Raça | [Sem Autor](Racas-e-Patentes#sem-autor) |
+| Raça | [Sem Autor](Racas-e-Patentes.md#sem-autor) |
 | Patente | Alfa |
 | Tipo | Corpo a corpo |
 | Vida base | 1.700 |

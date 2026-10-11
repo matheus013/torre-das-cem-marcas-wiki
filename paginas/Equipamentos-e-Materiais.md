@@ -1,6 +1,6 @@
 # Equipamentos, consumíveis e materiais
 
-Peças-base que caem na Torre e são vendidas na vila. Peças do saque ganham [afixos](Afixos) conforme a raridade e o nível do item. Materiais vão para o armazém comum da vila e alimentam as receitas da Forja.
+Peças-base que caem na Torre e são vendidas na vila. Peças do saque ganham [afixos](Afixos.md) conforme a raridade e o nível do item. Materiais vão para o armazém comum da vila e alimentam as receitas da Forja.
 
 ## Armas iniciais
 

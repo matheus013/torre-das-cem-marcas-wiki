@@ -11,7 +11,7 @@ Quatro personagens jogáveis, todas até o nível 100. Cada uma tem uma passiva 
 | Estilo | Condutora |
 | Nível máximo | 100 |
 | Arma inicial | Filamentos de Forja |
-| Gema inicial | [Elo Residual](Gemas-Ativas#elo-residual) |
+| Gema inicial | [Elo Residual](Gemas-Ativas.md#elo-residual) |
 | Afinidade de armas | Foco 115%, Lanca 85%, Manoplas 80%, Bastao 100% |
 
 **Passiva — Luz Residual.** Acertos e interacoes deixam residuos breves que revelam propriedades e conduzem o proximo efeito entre pontos relacionados.
@@ -139,7 +139,7 @@ Recurso: Residuo, até 3.
 | Estilo | Batedora De Rotas |
 | Nível máximo | 100 |
 | Arma inicial | Lanca de Duas Rotas |
-| Gema inicial | [Agulha de Lastro](Gemas-Ativas#agulha-de-lastro) |
+| Gema inicial | [Agulha de Lastro](Gemas-Ativas.md#agulha-de-lastro) |
 | Afinidade de armas | Foco 85%, Lanca 115%, Manoplas 100%, Bastao 90% |
 
 **Passiva — Duas Correntes.** Repetir uma acao planejada gera Tracado; improvisar uma acao diferente gera Desvio. Usar uma corrente reduz a outra.
@@ -267,7 +267,7 @@ Recurso: Correntes, até 3.
 | Estilo | Catalisadora |
 | Nível máximo | 100 |
 | Arma inicial | Manoplas de Placa Viva |
-| Gema inicial | [Pulso de Cicatriz](Gemas-Ativas#pulso-de-cicatriz) |
+| Gema inicial | [Pulso de Cicatriz](Gemas-Ativas.md#pulso-de-cicatriz) |
 | Afinidade de armas | Foco 90%, Lanca 95%, Manoplas 115%, Bastao 100% |
 
 **Passiva — Placas Adaptativas.** Receber ou neutralizar uma propriedade hostil armazena uma amostra usada como defesa, incorporacao da proxima gema ou descarga.
@@ -395,7 +395,7 @@ Recurso: Instabilidade, até 100.
 | Estilo | Construtor De Campo |
 | Nível máximo | 100 |
 | Arma inicial | Bastao Modular de Campo |
-| Gema inicial | [Mina de Lastro](Gemas-Ativas#mina-de-lastro) |
+| Gema inicial | [Mina de Lastro](Gemas-Ativas.md#mina-de-lastro) |
 | Afinidade de armas | Foco 85%, Lanca 100%, Manoplas 95%, Bastao 115% |
 
 **Passiva — Oportunidade Estrutural.** Impactos, obstaculos, bordas e efeitos persistentes revelam oportunidades usadas para alterar trajetoria, cobertura, passagem ou duracao.
