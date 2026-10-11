@@ -1,0 +1,1 @@
+Conteúdo de *Aresta — A Torre das Cem Marcas* © 2026 Matheus Santos, sob [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Gerado dos dados do jogo; valores provisórios, sujeitos a balanceamento.
