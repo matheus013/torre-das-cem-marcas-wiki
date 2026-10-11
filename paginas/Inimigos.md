@@ -884,6 +884,241 @@ Resistências e fraquezas somam a raça e o bioma (veja [Resistências](Resisten
 
 > Eco Regional do bioma Obra Inacabada.
 
+## Monstros de horário
+
+Só nascem num período do [relógio do mundo](Dia-e-Noite.md). Cada bioma tem uma variante noturna; o Coletor de Âmbar aparece em todos os biomas de manhã. Ao virar o período eles se recolhem, sem saque.
+
+### Sombra de Lastro
+
+| | |
+| --- | --- |
+| Quando | só à noite · Galerias Refeitas |
+| Classe | Comum |
+| Raça | [Rebocado](Racas-e-Patentes.md#rebocado) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 660 |
+| Dano | 14 a cada 0,8s |
+| Velocidade base | 42 |
+| Tipo de dano | Fisico |
+| Resistências | Fisico +15%, Terra +30% |
+| Fraquezas | Raio -25% |
+| Afixos | pode ter |
+| Comportamento | Sombra (só à noite): a cada 5 s some e reaparece atrás de quem persegue. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> So caminha no escuro: some e reaparece atras de quem o persegue.
+
+### Lampada Errante
+
+| | |
+| --- | --- |
+| Quando | só à noite · Bosque dos Ventos Presos |
+| Classe | Comum |
+| Raça | [Ventania](Racas-e-Patentes.md#ventania) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 530 |
+| Dano | 13 a cada 1,5s |
+| Velocidade base | 34 |
+| Tipo de dano | Raio |
+| Resistências | Raio +35% |
+| Fraquezas | Fisico -15%, Terra -25% |
+| Afixos | pode ter |
+| Comportamento | Bebe-luz (só à noite): perto dele (260) a luz da personagem cai pela metade. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> Bebe a luz em volta; perto dele a lanterna de quem passa encolhe pela metade.
+
+### Tecelao da Penumbra
+
+| | |
+| --- | --- |
+| Quando | só à noite · Manto dos Esporos |
+| Classe | Comum |
+| Raça | [Micelar](Racas-e-Patentes.md#micelar) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 550 |
+| Dano | 14 a cada 1,4s |
+| Velocidade base | 30 |
+| Tipo de dano | Natureza |
+| Resistências | Acido +25%, Natureza +60% |
+| Fraquezas | Fogo -50% |
+| Afixos | pode ter |
+| Comportamento | Sombra (só à noite): a cada 5 s some e reaparece atrás de quem persegue. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> So caminha no escuro: some e reaparece atras de quem o persegue.
+
+### Afogador Noturno
+
+| | |
+| --- | --- |
+| Quando | só à noite · Bacias do Quarto Pulso |
+| Classe | Comum |
+| Raça | [Lodoso](Racas-e-Patentes.md#lodoso) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 730 |
+| Dano | 16 a cada 0,85s |
+| Velocidade base | 44 |
+| Tipo de dano | Gelo |
+| Resistências | Fisico +25%, Fogo +10%, Gelo +40% |
+| Fraquezas | Raio -40% |
+| Afixos | pode ter |
+| Comportamento | Sombra (só à noite): a cada 5 s some e reaparece atrás de quem persegue. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> So caminha no escuro: some e reaparece atras de quem o persegue.
+
+### Apagador de Faiscas
+
+| | |
+| --- | --- |
+| Quando | só à noite · Ermo do Trovao Preso |
+| Classe | Comum |
+| Raça | [Carregado](Racas-e-Patentes.md#carregado) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 590 |
+| Dano | 16 a cada 1,3s |
+| Velocidade base | 34 |
+| Tipo de dano | Raio |
+| Resistências | Raio +75% |
+| Fraquezas | Gelo -25% |
+| Afixos | pode ter |
+| Comportamento | Bebe-luz (só à noite): perto dele (260) a luz da personagem cai pela metade. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> Bebe a luz em volta; perto dele a lanterna de quem passa encolhe pela metade.
+
+### Borrao de Tinta
+
+| | |
+| --- | --- |
+| Quando | só à noite · Arquivo das Rotas Mortas |
+| Classe | Comum |
+| Raça | [Cartografo](Racas-e-Patentes.md#cartografo) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 790 |
+| Dano | 17 a cada 0,85s |
+| Velocidade base | 42 |
+| Tipo de dano | Arcano |
+| Resistências | Arcano +60% |
+| Fraquezas | Sagrado -25% |
+| Afixos | pode ter |
+| Comportamento | Sombra (só à noite): a cada 5 s some e reaparece atrás de quem persegue. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> So caminha no escuro: some e reaparece atras de quem o persegue.
+
+### Sonambulo
+
+| | |
+| --- | --- |
+| Quando | só à noite · Planicie dos Adormecidos |
+| Classe | Comum |
+| Raça | [Parasitario](Racas-e-Patentes.md#parasitario) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 920 |
+| Dano | 18 a cada 0,9s |
+| Velocidade base | 38 |
+| Tipo de dano | Trevas |
+| Resistências | Fisico +15%, Natureza +20%, Trevas +30% |
+| Fraquezas | Sagrado -35% |
+| Afixos | pode ter |
+| Comportamento | Bebe-luz (só à noite): perto dele (260) a luz da personagem cai pela metade. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> Bebe a luz em volta; perto dele a lanterna de quem passa encolhe pela metade.
+
+### Fresta Viva
+
+| | |
+| --- | --- |
+| Quando | só à noite · Eixos Partidos |
+| Classe | Comum |
+| Raça | [Aderente](Racas-e-Patentes.md#aderente) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 660 |
+| Dano | 18 a cada 1,3s |
+| Velocidade base | 36 |
+| Tipo de dano | Fisico |
+| Resistências | Fisico +20%, Trevas +15%, Arcano +10% |
+| Fraquezas | Fogo -20% |
+| Afixos | pode ter |
+| Comportamento | Sombra (só à noite): a cada 5 s some e reaparece atrás de quem persegue. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> So caminha no escuro: some e reaparece atras de quem o persegue.
+
+### Vela sem Chama
+
+| | |
+| --- | --- |
+| Quando | só à noite · Campos do Quase |
+| Classe | Comum |
+| Raça | [Possivel](Racas-e-Patentes.md#possivel) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 680 |
+| Dano | 19 a cada 1,3s |
+| Velocidade base | 26 |
+| Tipo de dano | Arcano |
+| Resistências | Trevas +40%, Sagrado +15%, Arcano +25% |
+| Fraquezas | Fisico -15% |
+| Afixos | pode ter |
+| Comportamento | Bebe-luz (só à noite): perto dele (260) a luz da personagem cai pela metade. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> Bebe a luz em volta; perto dele a lanterna de quem passa encolhe pela metade.
+
+### Rascunho Noturno
+
+| | |
+| --- | --- |
+| Quando | só à noite · Obra Inacabada |
+| Classe | Comum |
+| Raça | [Sem Autor](Racas-e-Patentes.md#sem-autor) |
+| Patente | Evoluido |
+| Tipo | Corpo a corpo |
+| Vida base | 1.060 |
+| Dano | 22 a cada 0,85s |
+| Velocidade base | 42 |
+| Tipo de dano | Trevas |
+| Resistências | Todos os tipos +20% |
+| Fraquezas | — |
+| Afixos | pode ter |
+| Comportamento | Sombra (só à noite): a cada 5 s some e reaparece atrás de quem persegue. |
+| Saque | Orvalho Negro 60% (1–2), Polen Lunar 25% |
+
+> So caminha no escuro: some e reaparece atras de quem o persegue.
+
+### Coletor de Ambar
+
+| | |
+| --- | --- |
+| Quando | só de manhã · todos os biomas |
+| Classe | Comum |
+| Raça | [Ventania](Racas-e-Patentes.md#ventania) |
+| Patente | Maduro |
+| Tipo | Suporte |
+| Vida base | 400 |
+| Dano | não ataca |
+| Velocidade base | 58 |
+| Tipo de dano | Raio |
+| Resistências | Raio +25% |
+| Fraquezas | Fisico -15%, Terra -25% |
+| Afixos | não |
+| Comportamento | Coletor (só de manhã): foge de quem chega perto e nunca ataca; solta Âmbar Solar. |
+| Saque | Ambar Solar 100% (1–2) |
+
+> Nasce so de manha. Foge de quem se aproxima e solta Ambar Solar se for pego.
+
 
 ---
 

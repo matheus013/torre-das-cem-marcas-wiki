@@ -13,6 +13,7 @@
 - [Os 100 andares](Andares.md)
 - [Resistências](Resistencias.md)
 - [Dificuldades](Dificuldades.md)
+- [Dia e noite](Dia-e-Noite.md)
 - [Armas únicas](Armas-Unicas.md)
 - [Lendários e relíquias](Lendarios-e-Reliquias.md)
 - [Equipamentos, consumíveis e materiais](Equipamentos-e-Materiais.md)

@@ -70,6 +70,9 @@ Peças-base que caem na Torre e são vendidas na vila. Peças do saque ganham [a
 | **Semente do Quase** | Raro | Campos do Quase | Eco de Presa, Flor de Escolha, Cacador de Versoes, Fixador Vivo, Guardiao da Ultima Escolha |
 | **Material Sem Autor** | Raro | Obra Inacabada | Operario Sem Autor, Molde Vivo, Marca Numerada, Eco Regional, Regente Centesimo |
 | **Marca de Mandato** | Épico | Obra Inacabada | Operario Sem Autor, Molde Vivo, Marca Numerada, Eco Regional, Regente Centesimo |
+| **Orvalho Negro** | Comum | noite, todos os biomas | Sombra de Lastro, Lampada Errante, Tecelao da Penumbra, Afogador Noturno, Apagador de Faiscas, Borrao de Tinta, Sonambulo, Fresta Viva, Vela sem Chama, Rascunho Noturno |
+| **Polen Lunar** | Raro | noite, todos os biomas | Sombra de Lastro, Lampada Errante, Tecelao da Penumbra, Afogador Noturno, Apagador de Faiscas, Borrao de Tinta, Sonambulo, Fresta Viva, Vela sem Chama, Rascunho Noturno |
+| **Ambar Solar** | Incomum | manhã, todos os biomas | Coletor de Ambar |
 
 
 ---

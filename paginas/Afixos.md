@@ -56,6 +56,7 @@ Peças do saque sorteiam afixos conforme a raridade. A faixa abaixo é a do comu
 | Resistencia a terra | +4,0% a +10,0% |
 | Resistencia arcana | +4,0% a +10,0% |
 | Penetracao de resistencia | +3,0% a +6,0% |
+| Raio de luz | +8,0% a +20,0% |
 | Alcance de proliferacao de veneno (só em lendários) | +30,0% a +100,0% |
 
 ---
