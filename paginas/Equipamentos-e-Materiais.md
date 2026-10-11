@@ -73,6 +73,8 @@ Peças-base que caem na Torre e são vendidas na vila. Peças do saque ganham [a
 | **Orvalho Negro** | Comum | noite, todos os biomas | Sombra de Lastro, Lampada Errante, Tecelao da Penumbra, Afogador Noturno, Apagador de Faiscas, Borrao de Tinta, Sonambulo, Fresta Viva, Vela sem Chama, Rascunho Noturno |
 | **Polen Lunar** | Raro | noite, todos os biomas | Sombra de Lastro, Lampada Errante, Tecelao da Penumbra, Afogador Noturno, Apagador de Faiscas, Borrao de Tinta, Sonambulo, Fresta Viva, Vela sem Chama, Rascunho Noturno |
 | **Ambar Solar** | Incomum | manhã, todos os biomas | Coletor de Ambar |
+| **Ambar da Mare** | Raro | maré de Vínculo | — |
+| **Reliquia da Lua** | Épico | Lua da Cicatriz | — |
 
 
 ---
