@@ -1,6 +1,6 @@
 # Afixos de item
 
-Peças do saque sorteiam afixos conforme a raridade. A faixa abaixo é a do comum no nível 1: a raridade multiplica (Comum x1, Incomum x1,25, Raro x1,5, Épico x1,75, Lendário x2) e cada nível do item soma 2% (o nível 100 vale cerca de 2,98x o nível 1). Uma peça tem no máximo 5 afixos.
+Peças do saque sorteiam afixos conforme a raridade. A faixa abaixo é a do comum no nível 1: a raridade multiplica (Comum x1, Incomum x1,25, Raro x1,5, Épico x1,75, Lendário x2, divine x2,25) e cada nível do item soma 2% (o nível 100 vale cerca de 2,98x o nível 1). Uma peça tem no máximo 8 afixos.
 
 | Raridade | Afixos |
 | --- | --- |
@@ -9,6 +9,7 @@ Peças do saque sorteiam afixos conforme a raridade. A faixa abaixo é a do comu
 | Raro | 3 |
 | Épico | 3 |
 | Lendário | 3 a 4 |
+| divine | 7 |
 
 **Em breve:** itens divinos, com atributos-base no máximo, 7 afixos aleatórios no máximo, 1 afixo fixo coerente com o encaixe (botas: velocidade de movimento) e 1 ou 2 passivas divinas transformadoras.
 
